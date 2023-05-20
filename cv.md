@@ -6,9 +6,10 @@ _Director of Virtual Worlds, Rutgers University_
 Highland Park, NJ 08904  
 (732) 214-0511  
 rick.rickanderson@gmail.com  
-[LinkedIn](www.linkedin.com/in/rickanderson-4930741)  
-[GitHub](github.com/ricklon)  
-[GRID](tlt.rutgers.edu/grid)
+[LinkedIn](https://www.linkedin.com/in/rickanderson-4930741)  
+[GitHub](https://github.com/ricklon)  
+[GitHub](https://github.com/rianders)  
+[GRID](https://grid.rutgers.edu)
 
 ---
 
