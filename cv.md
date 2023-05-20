@@ -12,19 +12,6 @@ rick.rickanderson@gmail.com
 
 ---
 
-## EDUCATION
-
-_Rutgers University, New Brunswick, NJ_  
-BS in Computer Science, 1999  
-Emphasis in Network Programming and Structured Data  
-
-_Continuing Education_
-- Supervising and Managing People, Cornell ILR Conference Center, March 11-12, 2009
-- IT Project planning, Seminar, Center for Continuing Professional Development (CCPD), June 3-4, 2008
-- Strategic Project Planning, Seminar, CCPD, June 6-7, 2007
-
----
-
 ## PROFESSIONAL EXPERIENCE
 
 _Rutgers University, 28 years 3 months_
@@ -60,6 +47,19 @@ _Rutgers University_
 - Byrne Seminar: Social Engagement using XR _(Dates Needed)_
 - Graduate Level Virtual Reality Independent Studies for Mason Gross (2 Courses) _(Dates Needed)_
 - Original CMSCE Maker Program for Teachers _(Dates Needed)_
+
+---
+
+## EDUCATION
+
+_Rutgers University, New Brunswick, NJ_  
+BS in Computer Science, 1999  
+Emphasis in Network Programming and Structured Data  
+
+_Continuing Education_
+- Supervising and Managing People, Cornell ILR Conference Center, March 11-12, 2009
+- IT Project planning, Seminar, Center for Continuing Professional Development (CCPD), June 3-4, 2008
+- Strategic Project Planning, Seminar, CCPD, June 6-7, 2007
 
 ---
 
