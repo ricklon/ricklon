@@ -7,9 +7,9 @@ Highland Park, NJ 08904
 (732) 214-0511  
 rick.rickanderson@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/rickanderson-4930741)  
-[GitHub](https://github.com/ricklon)  
-[GitHub](https://github.com/rianders)  
-[GRID](https://grid.rutgers.edu)
+[Personal GitHub](https://github.com/ricklon)  
+[Work GitHub](https://github.com/rianders)  
+[Game Research and Immersive Design (GRID)](https://grid.rutgers.edu)
 
 ---
 
