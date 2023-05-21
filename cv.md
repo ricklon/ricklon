@@ -54,7 +54,7 @@ _Rutgers University_
    - Course description: This course integrated real-world experience with virtual world access. Students learned augmented reality 3D-modeling and game development in Unity and met with New Brunswick community and nonprofit leaders to marry their applied technical and creative skills with real-world service access needs. 
    - Course number: 01:090:101 section 06
 
-3. **Founder and Instructor**, Original CMSCE Maker Program for Teachers, Rutgers University, Center for Mathematics, Science, and Computer Education, New Brunswick, NJ. _(Fall 2015 - Summer 2019)_
+3. **Progam Developer and Instructor**, Original CMSCE Maker Program for Teachers, Rutgers University, Center for Mathematics, Science, and Computer Education, New Brunswick, NJ. _(Fall 2015 - Summer 2019)_
    - Course description: Designed, developed, and taught the original CMSCE Maker Program, focused on providing educators with the skills, knowledge, and inspiration to incorporate maker principles and technology into their classrooms.
 
 
