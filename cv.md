@@ -1,6 +1,6 @@
 # Curriculum Vitae
 ## RICHARD O. ANDERSON
-_Director of Virtual Worlds, Rutgers University_
+_Director of Virtual Worlds and Game Resarch and Immersive Design, Rutgers University_
 
 235 S 4th Ave., Floor 1  
 Highland Park, NJ 08904  
