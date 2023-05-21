@@ -43,12 +43,20 @@ _Fair Use Building and Research Labs, January 2012 - Present_
 ---
 
 ## TEACHING EXPERIENCE
-
 _Rutgers University_
-- ITI Capstone (Mentor) _(Dates Needed)_
-- Byrne Seminar: Social Engagement using XR _(Dates Needed)_
-- Graduate Level Virtual Reality Independent Studies for Mason Gross (2 Courses) _(Dates Needed)_
-- Original CMSCE Maker Program for Teachers _(Dates Needed)_
+
+1. **Course Instructor**, Information Technology and Informatics (ITI) Capstone, Rutgers University, New Brunswick, NJ. _(Spring 2012 - Spring 2023)_
+   - Course description: The capstone course is a culmination of the learning experiences in the ITI program. Students apply the knowledge and skills they have acquired to a real-world problem or project of their choice.
+   - For a historical view of capstone projects completed under my guidance, visit the ITI Showcase: [Capstone Projects 2015-2019](https://itishowcase.rutgers.edu/capstone-projects2015-2019)
+    
+2. **Co-Instructor**, Social Engagement in XR (Extended Reality), Rutgers University, New Brunswick, NJ. _(Fall 2019 - Spring 2023)_
+   - Co-instructed with Prof. Dan Swern, School of Communication and Information
+   - Course description: This course integrated real-world experience with virtual world access. Students learned augmented reality 3D-modeling and game development in Unity and met with New Brunswick community and nonprofit leaders to marry their applied technical and creative skills with real-world service access needs. 
+   - Course number: 01:090:101 section 06
+
+3. **Founder and Instructor**, Original CMSCE Maker Program for Teachers, Rutgers University, Center for Mathematics, Science, and Computer Education, New Brunswick, NJ. _(Fall 2015 - Summer 2019)_
+   - Course description: Designed, developed, and taught the original CMSCE Maker Program, focused on providing educators with the skills, knowledge, and inspiration to incorporate maker principles and technology into their classrooms.
+
 
 ---
 
