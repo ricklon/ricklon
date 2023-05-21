@@ -60,6 +60,18 @@ _Rutgers University_
 
 ---
 
+## Community Outreach and Sponsorships
+
+1. **Sponsor**, RVCC Game Design Program, Beatrice Coron VR Game Project _(Fall 2023)_
+   - Sponsored the Raritan Valley Community College (RVCC) Game Design program to create a virtual reality (VR) game for the artist Beatrice Coron.
+   
+2. **Co-Founder**, Garden State Combat Robotics League _(January 2023 - Present)_
+   - Co-founded the Garden State Combat Robotics League, a competition encouraging innovation and technical skills in robotics.
+
+3. **Co-Founder and Organizer**, Mechanical Mayhem Robot Combat Events _(October 23, 2021 - Present)_
+   - Co-founded and organized Mechanical Mayhem, a series of robot combat events showcasing design, innovation, and engineering in an exciting competitive format.
+---
+
 ## EDUCATION
 
 _Rutgers University, New Brunswick, NJ_  
@@ -73,14 +85,4 @@ _Continuing Education_
 
 ---
 
-## ADDITIONAL EXPERIENCE & ACHIEVEMENTS
-
-- Sponsored RVCC Game Design program to create a VR Game for artist Beatrice Coron _(Date Needed)_
-- Co-Founded Garden State Combat Robotics League _(Date Needed)_
-- Co-Founder and Organizer of Mechanical Mayhem Robot Combat Event _(Date Needed)_
-
----
-
-## REFERENCES
-Available on Request
 
