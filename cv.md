@@ -27,8 +27,8 @@ _Fair Use Building and Research Labs, January 2012 - Present_
 
 ## PUBLICATIONS & PRESENTATIONS
 
-- Pro Arduino with co-author Dan Servo. New York: Apress. 2013. [Apress Link](http://www.apress.com/9781430239390)
-- “University Community to University Citizen: Universal Citizen” with co-author Kristen Abbey. Fab10 Symposium, Barcelona, Spain, 2014.
+
+- *Pro Arduino with* co-author Dan Servo. New York: Apress. 2013. [Apress Link](http://www.apress.com/9781430239390)
 
 - "Self-Driving in Miniature: Autonomous RC Cars using CHI@Edge" May 2, 2023
 - "Evaluating Sentiment using Transformer based ML Models" Big Data in Fintech,  2023 Symposium, NJ Big Data Alliance at Seton Hall, May 9, 2023
@@ -39,6 +39,7 @@ _Fair Use Building and Research Labs, January 2012 - Present_
 - "AI Research on Sentiment Analysis" with Dr. Carmela Scala, Dr. Jim Samuel Exploring Japanese Cultural Heritage Collections with AI R-Global Workshop, Rutgers University, September 15, 2022
 - "Machine Learning with Teachable Machine" Center for Math Science and Computer Education, October 12, 2020
 - "The New Canny Valley: How AI helped skip the uncanny valley and fool humans to think things are real"  North Eastern University, College of Arts, Media and Design, June 3, 2020
+- “University Community to University Citizen: Universal Citizen” with co-author Kristen Abbey. Fab10 Symposium, Barcelona, Spain, 2014.
 
 ---
 
@@ -60,7 +61,7 @@ _Rutgers University_
 
 ---
 
-## Community Outreach and Sponsorships
+## Community Service
 
 1. **Sponsor**, RVCC Game Design Program, Beatrice Coron VR Game Project _(Fall 2023)_
    - Sponsored the Raritan Valley Community College (RVCC) Game Design program to create a virtual reality (VR) game for the artist Beatrice Coron.
